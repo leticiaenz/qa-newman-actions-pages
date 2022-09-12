@@ -28,7 +28,7 @@ Este projeto é composto por 3 arquivos principais:
 
 ```bash
 # Clone este repositório para a sua máquina
-$ git clone git@github.com:leticiaenz/gorest_postman.git
+$ git clone git@github.com:leticiaenz/qa-newman-actions-pages.git
 
 # Atualize o arquivo gorest.json com o seu arquivo de testes automatizados gerado pelo Postman
 $ gorest.json
